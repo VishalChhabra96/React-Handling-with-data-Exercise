@@ -1,0 +1,63 @@
+body{
+    background-color: aqua;
+}
+.button-style{
+    background-color: blue;
+    color:white;
+    padding:15px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.bg-grey {
+    background-color: lightgrey;
+}
+
+.user-list {
+    margin-top: 100px;
+    float: left;
+    text-align: left;
+    width: 20%;
+    list-style: none;
+}
+
+.user-details {
+    margin: 100px 20px 0;
+    float: right;
+    width: 40%;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid blue;
+    position: relative;
+}
+
+.user-details div label {
+    width: 400px;
+
+}
+.user-details div input {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.close-icon {
+    color: darkred;
+    position: absolute;
+    top: -10px;
+    right: -8px;
+    height: 19px;
+    width: 19px;
+    background-color: #fff;
+    border: 1px solid darkred;
+    border-radius: 12px;
+    text-align: center;
+    cursor: pointer;
+}
+.form{
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 10px;
+
+}
